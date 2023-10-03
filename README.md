@@ -1,12 +1,12 @@
-# Code Downloader
+# Youtube Playlist Downloader
 
 Download YouTube playlists effortlessly.
 
 ## Prerequisites
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/dapoadedire/yt-playlist-downloader.git
+   cd yt-playlist-downloader
    ```
 
 2. 
