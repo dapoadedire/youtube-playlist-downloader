@@ -2,6 +2,11 @@
 
 A simple command-line tool to download YouTube playlists.
 
+
+
+![Screenshot from 2024-04-20 17-09-52](https://github.com/dapoadedire/youtube-playlist-downloader/assets/95668340/68992d4b-909c-4c98-9395-6ae23a4f97b8)
+
+
 ## Table of Contents
 
 1. [Requirements](#requirements)
