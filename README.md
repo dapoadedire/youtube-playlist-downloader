@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 1. Run the script:
 ```bash
-python downloader.py
+python main.py
 ```
 2. Enter the YouTube playlist URL when prompted.
 3. Enter the number of videos to skip (default is 0).
